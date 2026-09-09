@@ -1,0 +1,7 @@
+{
+  "name": "cavix-mkt-photos-v2",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
